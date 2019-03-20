@@ -1,3 +1,5 @@
+**Deprecated** -- Use SonarQube plug-in Accelerator from Guidewire's Marketplace 
+
 Sonar Gosu
 ==========
 
